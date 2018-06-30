@@ -10,6 +10,9 @@ docker run \
 
 Go to http://localhost:7474 and set username(neo4j) and password
 
+## Install Packages
+pip install neomodel
+
 ## Run script
 Modify and run sample script in python
 
